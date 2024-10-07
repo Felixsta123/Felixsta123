@@ -3,7 +3,7 @@
   <h3>A goal-oriented Developer enrolled in the Epitech International Track</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
 </div>
 
-- 📍 Currently studying in **Berlin 🇩🇪**
+- 📍 Currently studying my 4th year in **Berlin 🇩🇪**
 
 - 🌱 I’m currently learning **C++, JavaScript and Python**
 
