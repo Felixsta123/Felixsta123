@@ -5,6 +5,8 @@
 
 - 📍 Currently studying my 4th year in **Berlin 🇩🇪**
 
+- Part-time product developer at Teiimo
+
 - 🌱 I’m currently learning **C++, JavaScript and Python**
 
 - 📫 How to reach me **felix.stavonhagen@epitech.eu**
