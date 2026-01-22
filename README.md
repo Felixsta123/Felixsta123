@@ -3,7 +3,7 @@
   <h3>A goal-oriented Developer enrolled in the Epitech International Track</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
 </div>
 
-- 📍 Currently studying my 4th year in **Berlin 🇩🇪**
+- 📍 Currently studying my 5th year in **Berlin 🇩🇪**
 
 - Part-time product developer at Teiimo
 
